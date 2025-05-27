@@ -2,7 +2,7 @@ import React from "react";
 import hero from "../assets/hero.svg";
 import deatil from "../assets/deatil.svg";
 import Icon from "../assets/Icon.svg";
-import Logo_strip from "../assets/Logo_strip.svg";
+import Logo_strip from "../assets/Logo_Strip.svg";
 import Arrows from "../assets/Arrows.svg";
 import pagination from "../assets/pagination.svg";
 export const HomePage = () => {
