@@ -9,7 +9,7 @@ export const Navbar = ({ setAllFormData, allFormData }) => {
 
   const [showForm, setShowForm] = useState(false);
   return (
-    <div className="lg:h-25 h-20 bg-white flex justify-between lg:justify-around items-center lg:mx-12 ">
+    <div className="lg:h-25 h-20 bg-white flex justify-between lg:justify-around items-center xl:mx-12 ">
       <img src={logo}  alt="logo" />
       <button
         className="relative w-8 h-8 flex flex-col justify-cente mr-5 items-center group lg:hidden"
